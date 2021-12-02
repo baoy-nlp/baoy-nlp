@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am pursuing a Ph. D. in computer science at Nanjing University. 
+I am Yu Bao, a Ph. D. student in computer science at Nanjing University. 
 
 Currently, I am a remote research intern at the ByteDance AI Lab.
 
