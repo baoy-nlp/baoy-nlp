@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I am pursuing a Ph. D. in computer science at Nanjing University. 
+
+Currently, I am a remote research intern at the ByteDance AI Lab.
+
 <!--
 **baoy-nlp/baoy-nlp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
