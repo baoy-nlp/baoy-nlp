@@ -1,20 +1,22 @@
 # Yu Bao's Homepage
 
-I am a research scientist at ByteDance Research. I joined Bytedance in 2022. 
-Before that, I earned my Ph.D. in Computer Science from Nanjing University in 2022 and obtained my B.S. at the School of Science from Northeast Forestry University in 2015.
+I have been working as a research scientist at ByteDance Research since Apr. 2022. 
+Before that, I received my PhD in Computer Science from Nanjing University in 2022. And I obtained a bachelor's degree from the School of Science of Northeast Forestry University in 2015.
 
 [[Google Scholar](https://scholar.google.com/citations?authuser=1&user=TqMb6nMAAAAJ)][[Email](nlp.baoy@gmail.com)]
 
 ### Research Interest
-My research is in natural language processing and deep learning, with a focus on deep generative models and their application in structure or sequence modeling. Recently, I devoted myself to AI for Science, especially in small molecular design, and aimed to advance (1) using diffusion models to design molecules; and (2) optimization to support drug design.
+I have broad research interests that are always changing. My research direction during my Ph.D. was in Natural Language Processing and Text Generation, focusing on exploring the application of deep generative models in structure or sequence modeling. 
+
+After joining ByteDance, I began to turn to the research of AI for Science and chose to explore structure-based drug design, committed to promoting (1) unified molecule generation and optimization modeling and (2) an efficient pipeline of drug molecule generation and optimization.
 
 ### Selected Publications
-
+(* indicates equal contributions, † indicates interns I mentored at ByteDance/NJU.)
 #### AI for Science
-- Xiangxin Zhou, Xiwei Cheng, Yuwei Yang, Yu Bao, Liang Wang, Quanquan Gu, [DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization](https://arxiv.org/abs/2403.13829), ICLR 2024.
-- Jiaqi Guan, Xiangxin Zhou, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, Qiang Liu, Liang Wang, Quanquan Gu, [DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design](https://arxiv.org/abs/2403.07902), ICML 2023.
+- Xiangxin Zhou†, Xiwei Cheng†, Yuwei Yang, Yu Bao, Liang Wang, Quanquan Gu, [DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization](https://arxiv.org/abs/2403.13829), ICLR 2024.
+- Jiaqi Guan†, Xiangxin Zhou†, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, Qiang Liu, Liang Wang, Quanquan Gu, [DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design](https://arxiv.org/abs/2403.07902), ICML 2023.
 
-#### Deep Generative Models, LLMs, etc
+#### Deep Generative Models (VAE, Diffusion, LLMs, etc)
 - Shimao Zhang†, Yu Bao, Shujian Huang, [EDT: Improving Large Language Models by Entropy-based Dynamic Temperature Sampling](https://arxiv.org/pdf/2403.14541.pdf), Arxiv Preprint
 - Jiasheng Ye, Zaixiang Zheng, Yu Bao, Lihua Qian, Mingxuan Wang, [DiNoiSer: Diffused Conditional Sequence Learning by Manipulating Noises](https://arxiv.org/abs/2302.10025), Transaction of ACL.
 - Yu Bao, Shujian Huang, Hao Zhou, Lei Li, Xinyu Dai, Jiajun Chen, [Unsupervised Paraphrasing via Syntactic Template Sampling](https://www.sciengine.com/SSI/doi/10.1360/SSI-2021-0065;JSESSIONID=81ea9517-be4e-4348-81b7-739c29cb09ac), SCIENTIA SINICA Informationis.
