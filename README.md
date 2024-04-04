@@ -11,7 +11,7 @@ I have broad research interests that are always changing. My research direction 
 After joining ByteDance, I began to turn to the research of AI for Science and chose to explore structure-based drug design, committed to promoting (1) unified molecule generation and optimization modeling and (2) an efficient pipeline of drug molecule generation and optimization.
 
 ### Selected Publications
-(* indicates equal contributions, † indicates interns I mentored at ByteDance/NJU.)
+(* indicates equal contributions, † indicates interns/students I mentored at ByteDance/NJU.)
 #### AI for Science
 - Xiangxin Zhou†, Xiwei Cheng†, Yuwei Yang, Yu Bao, Liang Wang, Quanquan Gu, [DecompOpt: Controllable and Decomposed Diffusion Models for Structure-based Molecular Optimization](https://arxiv.org/abs/2403.13829), ICLR 2024.
 - Jiaqi Guan†, Xiangxin Zhou†, Yuwei Yang, Yu Bao, Jian Peng, Jianzhu Ma, Qiang Liu, Liang Wang, Quanquan Gu, [DecompDiff: Diffusion Models with Decomposed Priors for Structure-Based Drug Design](https://arxiv.org/abs/2403.07902), ICML 2023.
