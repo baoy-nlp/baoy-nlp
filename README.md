@@ -2,8 +2,7 @@
 
 I have been working as a research scientist at ByteDance Research since Apr. 2022. 
 Before that, I received my PhD in Computer Science from Nanjing University in 2022. And I obtained a bachelor's degree from the School of Science of Northeast Forestry University in 2015.
-
-[[Google Scholar](https://scholar.google.com/citations?authuser=1&user=TqMb6nMAAAAJ)][[Email](nlp.baoy@gmail.com)][[CV](./baoy_CV.pdf)]
+<center><a href="https://scholar.google.com/citations?authuser=1&user=TqMb6nMAAAAJ">[Google Scholar] </a><a href="nlp.baoy@gmail.com">[Email]</a><a href="./baoy_CV.pdf"> [CV]</a></center>
 
 ### Research Interest
 I have broad research interests that are always changing. My research direction during my Ph.D. was in Natural Language Processing and Text Generation, focusing on exploring the application of deep generative models in structure or sequence modeling. 
